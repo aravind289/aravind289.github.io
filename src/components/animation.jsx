@@ -32,7 +32,7 @@ return(
                     </SocialIcon>
                     <SocialIcon className="github" url="https://github.com/aravind289"></SocialIcon>
                     <SocialIcon className="gdrive"
-                        url="https://drive.google.com/open?id=1_sb5Wy7er0OKmSe5lJwiwx7F44IB4hfW"></SocialIcon>
+                        url="https://drive.google.com/file/d/1dIFihFAm1b984cP39RhTAjRaMQRCUIFI/view"></SocialIcon>
 
                 </div>
 
